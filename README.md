@@ -29,10 +29,10 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em **Blockchain**, **Smar
   <a href="https://github.com/Freitasthur1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
-  <a href="LINK_DO_SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/arthur-freitas-7a9098179/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a> 
-  <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
+  <a href="mailto:arthur.freitas7723@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
