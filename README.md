@@ -1,6 +1,6 @@
-# Olá, bem-vindo ao meu perfil! 👋
+# Olá, bem-vindo ao meu perfil! 
 
-Sou um desenvolvedor apaixonado por tecnologia, focado em **Blockchain**, **Smart Contracts** e **Desenvolvimento Web**. Estou sempre explorando novas formas de criar soluções descentralizadas.
+Tecnólogo em Geoprocessamento pela Universidade Federal do Pará e residente do programa de Residência Tecnológica em Criptografia Aplicada às Tecnologias Blockchain - CpqD, atualmente focado em **Blockchain**, **Smart Contracts** e **Desenvolvimento Web**. Estou sempre explorando novas formas de criar soluções descentralizadas.
 
 ---
 
